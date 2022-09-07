@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guojikun&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-<div>
+<div style="display:flex;justify-content: space-between;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
