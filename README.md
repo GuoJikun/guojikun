@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guojikun&show_icons=true&theme=dracula)
+<div style="display: flex;">
+  <div style="flex: 0 0 50%">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guojikun&show_icons=true&theme=dracula)
+  </div>
+  <div style="flex: 0 0 50%">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+<div>
+
