@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GuoJikun&theme=xcode" /> </div>
 <div style="display:flex;justify-content: space-between;">
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </div>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=guojikun&show_icons=true" />
