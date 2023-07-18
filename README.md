@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=guojikun&theme=xcode" /> </div>
 <div style="display:flex;justify-content: space-between;">
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojikun&layout=compact" />
-</div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=guojikun&show_icons=true" />
-</div>
+  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojikun&layout=compact" /></div>
+  <div><img src="https://github-readme-stats.vercel.app/api?username=guojikun&show_icons=true" /></div>
 </div>
