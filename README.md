@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guojikun&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div align="center"><img src="https://metrics.lecoq.io/guojikun?template=terminal&repositories.forks=true&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai&config.display=large" /></div>
+<div align="center"><img src="https://metrics.lecoq.io/guojikun?template=classic&repositories.forks=true&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai&config.display=large" /></div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=guojikun&theme=xcode" /> </div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojikun&layout=compact" /></div>
