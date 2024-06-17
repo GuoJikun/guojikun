@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://skillicons.dev/icons?i=vue,js,ts,html,css,markdown&theme=light" />
 -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=guojikun&theme=github-compact&hide_border=true&area=true" />
+
 
 
 <h1 align="center">Hi 👋, I'm guojikun</h1>
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guojikun&show_icons=true&locale=en&layout=compact" alt="guojikun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guojikun&show_icons=true&locale=en" alt="guojikun" /></p>
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guojikun&" alt="guojikun" /></p>
-
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=guojikun&theme=github-compact&hide_border=true&area=true" />
+-->
