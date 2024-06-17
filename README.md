@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://skillicons.dev/icons?i=vue,js,ts,html,css,markdown&theme=light" />
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=guojikun&theme=github-compact&hide_border=true&area=true" />
+
 
 
