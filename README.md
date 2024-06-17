@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 一个 Web 前端开发者，主要技术栈是 vue。
 
 <img align="center" src="https://skillicons.dev/icons?i=vue,js,ts,html,css,markdown&theme=light" />
-
+-->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=guojikun&theme=github-compact&hide_border=true&area=true" />
 
 
 <h1 align="center">Hi 👋, I'm guojikun</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guojikun&label=Profile%20views&color=0e75b6&style=flat" alt="guojikun" /> </p>
 
